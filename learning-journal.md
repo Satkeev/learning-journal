@@ -1,17 +1,17 @@
 ## Summary
 
 ● The different versions of HTML and how to indicate which
-version you are using
-● How to add comments to your code
-● Global attributes, which are attributes that can be used on
-any element, including the class and id attributes
-● Elements that are used to group together parts of the page
-where no other element is suitable
-● How to embed a page within a page using iframes
-● How to add information about the web page using the
-<meta> element
+version you are using  
+● How to add comments to your code  
+● Global attributes, which are attributes that can be used on 
+any element, including the class and id attributes 
+● Elements that are used to group together parts of the page 
+where no other element is suitable 
+● How to embed a page within a page using iframes 
+● How to add information about the web page using the 
+<meta> element 
 ● Adding characters such as angled brackets and copyright
-symbols
+symbols 
 
 ### HTML5 LAYOUT
 X The new HTML5 elements indicate the purpose of  
