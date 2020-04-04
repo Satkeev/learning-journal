@@ -42,13 +42,13 @@ by browsers. For example:
 
 We look at these three different
 ways of specifying colors on the
-next double-page spread.
+next double-page spread. 
 
-body {
-background-color: rgb(200,200,200);}
-h1 {
-background-color: DarkCyan;}
-h2 {
-background-color: #ee3e80;}
-p {
-background-color: white;}
+>body { 
+background-color: rgb(200,200,200);} 
+h1 { 
+background-color: DarkCyan;} 
+h2 { 
+background-color: #ee3e80;} 
+p { 
+background-color: white;} 
