@@ -1,4 +1,16 @@
 ### INTRODUCING CSS
+>keywords: 
+declaration 
+selector 
+types of: 
+rule 
+COLOR: 
+Hex decimal 
+rgb 
+rgba 
+others??? 
+how would tell what color #000000 is 
+
 >X CSS treats each HTML element as if it appears inside 
 its own box and uses rules to indicate how that 
 element should look. 
