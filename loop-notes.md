@@ -1,17 +1,17 @@
 ### JAVASCR IPT c04/ js/ do-while-loop.j s  
 
->var i = l;  
-var msg : I I  
-II Set counter to 1 
-II Message 
-II Store 5 times table in a variable 
+>var i = l; //Set counter  
+var msg : ' '; //Message      
+ 
+// Store 5 times table in a variable 
 do { 
 msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;s 
 i++; 
 } wh il e ( i < 1) ; 
 >II Note how this is already 1 and it still runs 
 document .getEl ementByld(' answer').innerHTML = msg; 
-lijJiiJ51 
+
+
 lxS=S 
 Breaking down the first statement in these examples: 
 1 2 3 4 5 6 
