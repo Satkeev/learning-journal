@@ -1,4 +1,4 @@
-### JAVASCR IPT c04/ js/ do-while-loop.j s  
+### JAVASCRIPT c04/ js/ do-while-loop.js  
 
 >var i = l; //Set counter  
 var msg : ' '; //Message      
