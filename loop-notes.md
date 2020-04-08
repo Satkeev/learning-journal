@@ -1,3 +1,43 @@
+### JAVASCR IPT c04/ js/ do-while-loop.j s  
+
+>var i = l;  
+var msg : I I  
+II Set counter to 1 
+II Message 
+II Store 5 times table in a variable 
+do { 
+msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;s 
+i++; 
+} wh il e ( i < 1) ; 
+>II Note how this is already 1 and it still runs 
+document .getEl ementByld(' answer').innerHTML = msg; 
+lijJiiJ51 
+lxS=S 
+Breaking down the first statement in these examples: 
+1 2 3 4 5 6 
+1. Take variable called msg 4. Write out the string x 5 = 
+2. Add to the following to its value 5. The counter multiplied by 5 
+3. The number in the counter 6. Add a line break 
+The key difference between 
+a whi 1 e loop and a do whi 1 e 
+loop is that the statements in 
+the code block come before the 
+condition. This means that those 
+statements are run once whether 
+or not the condition is met. 
+If you take a look at the 
+condition, it is checking that the 
+value of the variable called i is 
+less than 1, but that variable has 
+already been set to a value of 1. 
+Therefore, in this example the 
+result is that the 5 times table is 
+written out once, even though 
+the counter is not less than 1. 
+Some people like to write while 
+on a separate line from the 
+closing curly brace before it.  
+
 ##USING FOR LOOPS  
 
 #JAVASCRIPT c04/js/for-loop .js  
