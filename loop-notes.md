@@ -1,3 +1,44 @@
+### USING
+### COMPARISON OPERATORS
+
+?JAVASCRIPT c04/ js/ comparison-operator.js  
+var pass = 50; II Pass mark  
+var score = 90; II Score  
+II Check if t he user has passed  
+var hasPassed = score >= pass;  
+II Write the message i nt o the page  
+var el = document .getEl ementByld(' answe r ');  
+e 1 . t extContent = 'Leve 1 passed: ' + has Passed;  
+Level passed: true    
+-
+At the most basic level, you can  
+evaluate two variables using a  
+comparison operator to return a  
+t rue or f al se value  .
+In this example, a user is taking a  
+test, and the script tells the user  
+whether they have passed this  
+round of the test.  
+The example starts by setting  
+two variables: 
+1. pass to hold the pass mark  
+2. score to hold the users score  
+To see if the user has passed,  
+a comparison operator checks  
+whether scor e is greater than or  
+equal to pass. The result will be  
+true or false, and is stored in  
+a variable called has Passed. On  
+the next line, the result is written  
+to the screen.  
+The last two lines select the  
+element whose id attribute  
+has a value of answer, and then  
+updates its contents. You will  
+learn more about this technique  
+in the next chapter
+
+
 ### USING WHILE LOOPS
 
 >Here is an example of awhil e  
