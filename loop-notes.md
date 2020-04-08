@@ -1,5 +1,5 @@
 ### USING
-### COMPARISON OPERATORS
+COMPARISON OPERATORS
 
 ?JAVASCRIPT c04/ js/ comparison-operator.js  
 var pass = 50; II Pass mark  
