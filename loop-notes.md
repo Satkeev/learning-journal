@@ -13,26 +13,26 @@ i remains less than 10, the
 statements in the subsequent 
 code block should run. 
 Inside the code block there are 
-two statements:  
-The first statement uses the    
-new content to the msg variable.  
-Each time the loop runs, a new  
-calculation and line break is  
-added to the end of the message   
-being stored in it. So+" works as  
-a shorthand for writing:  
-msg = msg + 'new msg'  
-(See bottom of the next page for 
-a breakdown of this statement.) 
-The second statement 
-increments the counter variable 
-by one. (This is done inside 
-the loop rather than with the 
-condition.) 
-When the loop has finished, the 
-interpreter goes to the next line 
-of code, which writes the msg 
-variable to the page.  
+two statements:    
+>The first statement uses the      
+new content to the msg variable.    
+Each time the loop runs, a new    
+calculation and line break is    
+added to the end of the message     
+being stored in it. So+" works as    
+a shorthand for writing:    
+msg = msg + 'new msg'    
+(See bottom of the next page for   
+a breakdown of this statement.)   
+The second statement   
+increments the counter variable   
+by one. (This is done inside   
+the loop rather than with the  
+condition.)  
+When the loop has finished, the  
+interpreter goes to the next line   
+of code, which writes the msg   
+variable to the page.    
 
 ##USING FOR LOOPS  
 
