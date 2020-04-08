@@ -1,41 +1,38 @@
-### JAVASCRIPT c04/ js/ do-while-loop.js  
-
->var i = l; //Set counter  
-var msg : ' '; //Message      
- // Store 5 times table in a variable  
-do {   
-msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;  
-i++;  
-} wh il e ( i < 1) ;   
->II Note how this is already 1 and it still runs 
-document .getEl ementByld(' answer').innerHTML = msg; 
-
-
-lxS=S 
-Breaking down the first statement in these examples: 
-1 2 3 4 5 6 
-1. Take variable called msg 4. Write out the string x 5 = 
-2. Add to the following to its value 5. The counter multiplied by 5 
-3. The number in the counter 6. Add a line break 
-The key difference between 
-a whi 1 e loop and a do whi 1 e 
-loop is that the statements in 
-the code block come before the 
-condition. This means that those 
-statements are run once whether 
-or not the condition is met. 
-If you take a look at the 
-condition, it is checking that the 
-value of the variable called i is 
-less than 1, but that variable has 
-already been set to a value of 1. 
-Therefore, in this example the 
-result is that the 5 times table is 
-written out once, even though 
-the counter is not less than 1. 
-Some people like to write while 
-on a separate line from the 
-closing curly brace before it.  
+### USING WHILE LOOPS
+>Here is an example of awhil e 
+loop. It writes out the 5 times 
+table. Each time the loop is run, 
+another calculation is written 
+into the variable called msg. 
+This loop will continue to run 
+for as long as the condition in 
+the parentheses is true. That 
+condition is a counter indicating 
+that, as long as the variable 
+i remains less than 10, the 
+statements in the subsequent 
+code block should run. 
+Inside the code block there are 
+two statements:  
+The first statement uses the    
+new content to the msg variable.  
+Each time the loop runs, a new  
+calculation and line break is  
+added to the end of the message   
+being stored in it. So+" works as  
+a shorthand for writing:  
+msg = msg + 'new msg'  
+(See bottom of the next page for 
+a breakdown of this statement.) 
+The second statement 
+increments the counter variable 
+by one. (This is done inside 
+the loop rather than with the 
+condition.) 
+When the loop has finished, the 
+interpreter goes to the next line 
+of code, which writes the msg 
+variable to the page.  
 
 ##USING FOR LOOPS  
 
