@@ -1,14 +1,14 @@
 ### USING
 COMPARISON OPERATORS
 
-?JAVASCRIPT c04/ js/ comparison-operator.js  
+>JAVASCRIPT c04/ js/ comparison-operator.js  
 var pass = 50; II Pass mark  
 var score = 90; II Score  
 II Check if t he user has passed  
 var hasPassed = score >= pass;  
 II Write the message i nt o the page  
 var el = document .getEl ementByld(' answe r ');  
-e 1 . t extContent = 'Leve 1 passed: ' + has Passed;  
+e 1 . textContent = 'Leve 1 passed: ' + has Passed;  
 Level passed: true    
 -
 At the most basic level, you can  
