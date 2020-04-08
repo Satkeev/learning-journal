@@ -1,19 +1,21 @@
 ### USING WHILE LOOPS
->Here is an example of awhil e 
-loop. It writes out the 5 times 
-table. Each time the loop is run, 
-another calculation is written 
-into the variable called msg. 
-This loop will continue to run 
-for as long as the condition in 
-the parentheses is true. That 
-condition is a counter indicating 
-that, as long as the variable 
-i remains less than 10, the 
-statements in the subsequent 
-code block should run. 
-Inside the code block there are 
-two statements:    
+
+>Here is an example of awhil e  
+loop. It writes out the 5 times  
+table. Each time the loop is run,   
+another calculation is written   
+into the variable called msg.   
+This loop will continue to run   
+for as long as the condition in   
+the parentheses is true. That   
+condition is a counter indicating   
+that, as long as the variable   
+i remains less than 10, the   
+statements in the subsequent   
+code block should run.   
+Inside the code block there are   
+two statements:  
+
 >The first statement uses the      
 new content to the msg variable.    
 Each time the loop runs, a new    
