@@ -1,0 +1,69 @@
+HTML srtucture 
+
+<body>
+You met the
+<body>
+ elementin the ﬁrst example we created.Everything inside this element isshown inside the main browserwindow.
+<head>
+Before the
+<body>
+ element youwill often see a
+<head>
+ element.This contains information
+about
+ the page (rather thaninformation that is shown withinthe main part of the browserwindow that is highlighted inblue on the opposite page).You will usually ﬁnd a
+<title>
+ element inside the
+<head>
+ element.
+<title>
+The contents of the
+<title>
+ element are either shown in thetop of the browser, above whereyou usually type in the URL ofthe page you want to visit, oron the tab for that page (if yourbrowser uses tabs to allow youto view multiple pages at thesame time).
+BOdY, HeAd & TITLe
+
+HTML pages are text documents.
+HTML uses tags (characters that sit inside angled
+brackets) to give the information they surround specialmeaning.Tags are often referred to as elements.
+Tags usually come in pairs. The opening tag denotes
+the start of a piece of content; the closing tag denotesthe end.Opening tags can carry attributes, which tell us more
+about the content of that element.Attributes require a name and a value.
+To learn HTML you need to know what tags are
+available for you to use, what they do, and where theycan go.
+ 
+
+DOCTYPES
+ tell browsers which version of HTML youare using.You can add comments to your code between the
+!-- and -->  markers.The
+id  and class attributes allow you to identifyparticular elements.The
+<div> and <span>
+ elements allow you to groupblock-level and inline elements together.
+<iframes>
+ cut windows into your web pages throughwhich other pages can be displayed.The
+<meta>
+ tag allows you to supply all kinds ofinformation about your web page.Escape characters are used to include special
+characters in your pages such as <, >, and 
+
+ 
+
+HTML5 LAYOUT
+The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
+The new elements provide clearer code (compared
+with using multiple <div>  elements).
+Older browsers that do not understand HTML5
+elements need to be told which elements areblock-level elements.
+To make HTML5 elements work in Internet Explorer 8
+(and older versions of IE), extra JavaScript is needed,which is available free from Google
+WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS 
+You have seen how data can be used to create a model of a hotel or a car. Web browsers create similar models 
+of the web page they are showing and of the browser window that the page is being shown in. 
+WINDOW OBJECT 
+On the right-hand page you can see a model of a computer with a browser open on the screen. 
+The browser represents each window or tab using a window object. The location property of the window object 
+will tell you the URL of the current page. 
+@ THE ABC OF PROGRAMMING 
+DOCUMENT OBJECT 
+The current web page loaded into each window is modelled using a document object. 
+The title property of the document object tells you what is between the opening <t; t le> and 
+closing </title> tag for that web page, and the l astModi fi ed property of the document object 
+tells you the date this page was last updated. 
